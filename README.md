@@ -2,9 +2,9 @@
 
 Modern React application scaffold with the latest versions of:
 
-- **React 18.3** - Latest React with hooks and concurrent features
-- **Vite 6** - Next generation frontend tooling
-- **TypeScript 5.6** - Type-safe JavaScript
+- **React 19.2** - Latest React with hooks and concurrent features
+- **Vite 7** - Next generation frontend tooling
+- **TypeScript 5.9** - Type-safe JavaScript
 - **Tailwind CSS v4** - Utility-first CSS framework (latest version without config file)
 - **shadcn/ui** - Beautiful, accessible component library (all components included)
 
